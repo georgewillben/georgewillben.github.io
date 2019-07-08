@@ -1,11 +1,11 @@
 # Site settings
 author: George Bennett
-title: 
+title: Data Normalization
 header-img: img/home-bg.png
 email: georgewillben@gmail.com
 copyright_name: George Bennett
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Normalizing Data for Better Results
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  georgewillben
