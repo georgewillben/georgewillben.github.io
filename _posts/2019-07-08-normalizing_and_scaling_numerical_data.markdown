@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Normalizing and Scaling Numerical Data"
-date:       2019-07-08 04:36:52 +0000
+date:       2019-07-08 00:36:53 -0400
 permalink:  normalizing_and_scaling_numerical_data
 ---
 
