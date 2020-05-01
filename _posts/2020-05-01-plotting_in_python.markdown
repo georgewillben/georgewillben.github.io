@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Plotting in Python"
-date:       2020-05-01 17:03:54 +0000
+date:       2020-05-01 13:03:55 -0400
 permalink:  plotting_in_python
 ---
 
